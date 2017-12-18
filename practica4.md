@@ -1,0 +1,7 @@
+##Practica #4
+
+1. Descripción de como habéis representado los individuos.
+	* Class Profesor: 
+	   * Nosotros representamos los individuos o profesores en una clase llamada Profesor. Dentro de la clase nosotros ponimos dos listas prefefencias y restricciones. Tambien tiene un String donde se guarda el nombre del profesor.
+
+2. Descripción de la generación de población inicial.3. Descripción de la implementación del operador de cruce que habéis realizado.4. Descripción de la implementación del operador de mutación que habéisrealizado.5. Descripción de la función de fitness empleada en vuestra implementación.6. Descripción de la función objetivo empleada en vuestra implementación.7. Resultados obtenidos por el algoritmo desarrollado para las configuracionesproporcionadas.Para poder analizar la eficiencia del algoritmo no basta con ejecutar una única vez el algoritmo, habrá que ejecutarlo varias veces (100, por ejemplo) y de cada parámetro (fitness mejor individuo, tiempo de ejecución...) obtener media, máximo...8. Influencia de la probabilidad de cruce en la aplicación.9. Influencia de obtener dos individuos en el cruce en lugar de uno en la aplicación.10. Influencia de la estrategia no destructiva frente a la estrategia destructiva en la aplicación.11. Parte opcional. Se describirá en detalle si se ha realizado alguna de las partes opcionales, como se han realizado, resultados obtenidos...
